@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local credentials — NEVER commit
+*.local.json
+.env
+
+# Editor
+.idea/
+.vscode/
